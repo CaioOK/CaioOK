@@ -26,7 +26,7 @@
 <h3 align="left">Frameworks e ferramentas:</h3>
 <p align="left">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="40"/>
   </a>
   
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
