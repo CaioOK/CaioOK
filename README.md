@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25" />, como vai? Eu sou o Caio!
+  Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" />, como vai? Eu sou o Caio!
 </h1>
 <h3 align="center">Desenvolvedor web Full-Stack em construção</h3>
 
